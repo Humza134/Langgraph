@@ -1,0 +1,14 @@
+langgraph
+langsmith
+langchain_google_genai
+tavily-python
+langchain_community
+streamlit
+yfinance
+duckduckgo-search
+chromadb 
+langchainhub 
+tiktoken
+faiss-cpu
+langgraph-checkpoint-postgres
+psycopg
